@@ -6,3 +6,4 @@ Welcome to the Quantum Programming repository! This repository contains various 
 
 - `Grover_Search.ipynb`: Calculates and runs the ideal number of iterations for Grover's algorithm. -Qiskit
 - `K_means.ipynb`: Comparison of classical and quantum k-means algorithms. -Pennylane
+- `QSVM_hybrid`: This study aimed to compare the classification accuracy of a hybrid QSVM generated using Quantum Core Trick with the performance of a traditional RBF Core Classic Kernel SVM. -Pennylane
