@@ -5,4 +5,4 @@ Welcome to the Quantum Programming repository! This repository contains various 
 # Contents
 
 - `Grover_Search.ipynb`: Calculates and runs the ideal number of iterations for Grover's algorithm. -Qiskit
-- `K-means.ipynb`: Comparison of classical and quantum k-means algorithms.
+- `K_means.ipynb`: Comparison of classical and quantum k-means algorithms.
