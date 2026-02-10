@@ -10,3 +10,4 @@ Welcome to the Quantum Programming repository! This repository contains various 
 - `PCA_QPCA.ipynb`: Comparison of PCA and QPCA: Although PCA and QPCA are not learning algorithms themselves, they are important algorithms for machine learning. -Pennylane
 - `VQC-moons.ipynb`: This is a Variational Quantum Classifier (VQC) model supported by 'Data Re-uploading', which maximizes the learning capacity of a limited number of qubits by re-introducing the data at every layer -Pennylane
 - `VQC-finance.ipynb`: The performances of a classical architecture and VQC-based models with varying qubit scales (2, 4, and 8) were evaluated and compared. -Pennylane
+- `Quantum_Comms`: A distributed BB84 (QKD) simulation that detects network eavesdropping via quantum mechanics to generate unbreakable encryption keys. -Pennylane & Sockets
